@@ -1,1 +1,1 @@
-# COVID-19_Stats
+# COVID-19 Statistics
